@@ -36,14 +36,6 @@ et garantit le succès de leurs événements.
 -	Accepter une demande
 -	Consulter un éventement
 -	
-	ORGANISATEUR
--	Permettre a un organisateur de :
--	S’inscrire
--	Se connecter
--	Publier des  éventements
--	Vendre un ticket
--	Consulter un éventement
-  
 ### Membres du groupe:
 chef: MANIGA Kady Noura   [@kadynour](https://github.com/kadynour)  
       Sawadogo Zakaria    [@SawadogoZakaria](https://github.com/SawadogoZakaria)  
