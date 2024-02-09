@@ -48,6 +48,6 @@ et garantit le succès de leurs événements.
 chef: MANIGA Kady Noura   [@kadynour](https://github.com/kadynour)  
       Sawadogo Zakaria    [@SawadogoZakaria](https://github.com/SawadogoZakaria)  
       Coulibaly Issa       [@Niortien](https://github.com/Niortien)  
-       Toure lorene         [@AnneLorene01](https://github.com/AnneLorene01)  r
+       Toure lorene         [@AnneLorene01](https://github.com/AnneLorene01)  
        Gnaco Reine        [@Arpeur](https://github.com/Arpeur)
 
