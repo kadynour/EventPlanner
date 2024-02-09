@@ -15,7 +15,35 @@ d'événements en offrant une solution complète et efficace qui répond aux bes
 et garantit le succès de leurs événements.
 
 
+### Les Fonctionnalités
 
+	CLIENTS
+-	Permettre aux clients de :
+-	S’inscrire facilement 
+-	 Se connecter facilement 
+-	Annuler une réservation
+-	De souscrire à un service
+-	Noter un événement
+-	Réserver un ticket
+-	Consulter les éventements
+-	Noter un éventement
+
+	PRESTATAIRE DE SERVICE
+-	Permettre à un prestataire de :
+-	S’inscrire
+-	Présenter ses services 
+-	 De refuser une demande de prestation
+-	Accepter une demande
+-	Consulter un éventement
+-	
+	ORGANISATEUR
+-	Permettre a un organisateur de :
+-	S’inscrire
+-	Se connecter
+-	Publier des  éventements
+-	Vendre un ticket
+-	Consulter un éventement
+  
 ### Membres du groupe:
 chef: MANIGA Kady Noura   [@kadynour](https://github.com/kadynour)  
       Sawadogo Zakaria    [@SawadogoZakaria](https://github.com/SawadogoZakaria)  
