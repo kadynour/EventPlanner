@@ -29,11 +29,9 @@ et garantit le succès de leurs événements.
 -	S’inscrire facilement 
 -	 Se connecter facilement 
 -	Annuler une réservation
--	De souscrire à un service
--	Noter un événement
--	Réserver un ticket
+-	reserver à un service
+-	Noter un service
 -	Consulter les éventements
--	Noter un éventement
 
 <img src="https://www.clipartmax.com/png/middle/139-1396028_service-service-delivery-icon.png" height=30 width=30> **PRESTATAIRE DE SERVICE**
 -	Permettre à un prestataire de :
